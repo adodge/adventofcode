@@ -1,0 +1,7 @@
+seeds: 74 14
+
+seed-to-location map:
+45 77 23
+81 45 19
+68 64 13
+
